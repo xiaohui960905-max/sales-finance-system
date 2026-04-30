@@ -1,0 +1,17 @@
+# 数据库文件（含真实数据）
+*.db
+
+# 备份
+backups/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+*.swp
